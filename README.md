@@ -62,9 +62,3 @@ AGROMITRA seeks to:
 - **Sustainability Focus**: Integrate climate models for eco-friendly farming and adaptation to climate changes.
 - **Linguistic Barriers**: Provide multilingual support to break down language and cultural barriers for all farmers.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/agromitra.git
-   cd agromitra
