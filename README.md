@@ -1,4 +1,4 @@
-# NovaHacks_Project-
+# NovaHacks_Project
 # AGROMITRA: Smart Farming with Market Demand Insight
 
 ## Overview
