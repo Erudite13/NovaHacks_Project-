@@ -18,6 +18,8 @@ AGROMITRA seeks to:
 - Implement crop rotation models and soil health assessments for better sustainability.
 - Guide farmers from planting to selling, ensuring alignment with current market trends.
 
+  ![diagram-export-09-08-2024-22_39_52](https://github.com/user-attachments/assets/517f2722-bf4a-47c6-85d1-b6aba5e342e3)
+
 ## Key Features
 
 - **Market Demand Analysis**: Identifies high-demand crops and vegetables based on market trends and seasonal patterns.
